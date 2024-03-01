@@ -2,6 +2,8 @@
 
 This repository provides the HTML and CSS code needed to create a home page reminiscent of Netflix. The project's goal is to imitate the Netflix home page's visual style and structure, serving as a model for developing interfaces like to it or learning web development methods.
 
+# Homescreen preview
+https://github.com/kislayykumar/Netflix-clone/blob/94c8b82ff23aec164984cd24e22bccf5b884b989/Home%20screen.png
 
 ## Features
 
